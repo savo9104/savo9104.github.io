@@ -1,0 +1,212 @@
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/*general contact*/
+.contact h1{
+  font-size: 60px;
+  font: bold;
+  color: white;
+}
+.contact h2{
+  font-size: 30px;
+  font: bold;
+  color: white;
+}
+.contact h4{
+  font: bold;
+  color: white;
+}
+/*about me-- contact*/
+.contact1 h1{
+  font-size: 60px;
+  font: bold;
+  color: black;
+}
+.contact1 h2{
+  font-size: 30px;
+  font: bold;
+  color: black;
+}
+.contact1 h4{
+  font: bold;
+  color: black;
+}
+/*home page carousel*/
+.container {
+  margin-top: 30px;
+}
+.container h1 {
+  color: white;
+}
+.container p {
+  color: white;
+}
+.container h2 {
+  color: white;
+}
+/*about me page*/
+.aboutme {
+  width: 70%;
+  margin: auto;
+  color: black;
+  margin-top: 50px;
+}
+
+.aboutorunje {
+  width: 100%;
+  margin: auto;
+  color: black;
+  margin-top: 50px;
+  text-align: center;
+
+  padding: 0px;
+}
+/*orunje header image*/
+.orunjeheader{
+  background-image: url(./IMAGES/orunjeback.jpg);
+  background-position: center;
+  text-decoration: white;
+}
+.orunjeheader h2 {
+  color: white;
+  margin-left: 40px;
+}
+/*btm header image*/
+.btmheader{
+  background-image: url(./IMAGES/blacktechmecca.png);
+  background-position: center;
+  text-decoration: white;
+}
+.btmheader h2 {
+  color: white;
+  margin-left: 40px;
+}
+/*downbeats header image*/
+.downbeatsheader{
+  background-image: url(./IMAGES/downbeats.png);
+  background-position: center;
+  text-decoration: white;
+}
+.downbeatsheader h2 {
+  color: white;
+  margin-left: 40px;
+}
+/*home header image*/
+.jumbotron{
+  background-image: url(./IMAGES/guitar.jpg);
+  background-position: center;
+  height: 250px;
+}
+.jumbotron h2 {
+  color: black;
+  margin-left: 40px;
+  
+}
+.jumbotron p {
+  color: black;
+  margin-left: 40px;
+}
+/*about me header image*/
+.jumbotron1{
+  background-image: url(./IMAGES/records.jpg);
+  background-position: center;
+  height: 250px;
+}
+.jumbotron1 h2 {
+  font-size: 50px;
+  color:  #ffa31a;
+  margin-left: 40px;
+}
+/*portfolio header image*/
+.jumbotron2{
+  background-image: url(./IMAGES/code.jpg);
+  background-position: center;
+  height: 250px;
+}
+.jumbotron2 h2 {
+  font-size: 50px;
+  color: white;
+  margin-left: 40px;
+}
+/*portfolio display*/
+#section1 {
+background-size: 100%;
+}
+#section2 {
+background-size: 100%;
+}
+#section3 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section4 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section5 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section6 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section7 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section8 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section9 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section10 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section11 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section12 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section13 {
+background-size: 100% ;
+background-position: center;
+background-repeat: no-repeat;
+}
+#section33 {
+background-size: 100% ;
+background-position: top;
+background-repeat: no-repeat;
+}
+#section44 {
+background-size: 100% ;
+background-position: top;
+background-repeat: no-repeat;
+}
