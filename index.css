@@ -73,7 +73,7 @@
 }
 /*orunje header image*/
 .orunjeheader{
-  background-image: url(./IMAGES/orunjeback.jpg);
+  background-image: url(orunjeback.jpg);
   background-position: center;
   text-decoration: white;
 }
@@ -83,7 +83,7 @@
 }
 /*btm header image*/
 .btmheader{
-  background-image: url(./IMAGES/blacktechmecca.png);
+  background-image: url(blacktechmecca.png);
   background-position: center;
   text-decoration: white;
 }
@@ -93,7 +93,7 @@
 }
 /*downbeats header image*/
 .downbeatsheader{
-  background-image: url(./IMAGES/downbeats.png);
+  background-image: url(downbeats.png);
   background-position: center;
   text-decoration: white;
 }
@@ -103,7 +103,7 @@
 }
 /*home header image*/
 .jumbotron{
-  background-image: url(./IMAGES/guitar.jpg);
+  background-image: url(guitar.jpg);
   background-position: center;
   height: 250px;
 }
@@ -118,7 +118,7 @@
 }
 /*about me header image*/
 .jumbotron1{
-  background-image: url(./IMAGES/records.jpg);
+  background-image: url(records.jpg);
   background-position: center;
   height: 250px;
 }
@@ -129,7 +129,7 @@
 }
 /*portfolio header image*/
 .jumbotron2{
-  background-image: url(./IMAGES/code.jpg);
+  background-image: url(code.jpg);
   background-position: center;
   height: 250px;
 }
